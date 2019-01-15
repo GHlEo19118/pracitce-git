@@ -1,0 +1,7 @@
+#file name .gitignore
+
+#ignore secret.yml
+secret.yml
+
+#ignore *.tmp
+*.tmp
